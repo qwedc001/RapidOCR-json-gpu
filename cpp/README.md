@@ -2,7 +2,7 @@
 
 本文档帮助如何在 Windows x64 上编译 RapidOCR-json 。
 
-本文参考了 RapidAI 官方的[编译说明](https://github.com/RapidAI/RapidOcrOnnx/blob/main/BUILD.md) 。
+本文参考了 RapidAI 官方的[CPU 版本编译说明](https://github.com/RapidAI/RapidOcrOnnx/blob/main/BUILD.md)，[GPU 版本附加说明](https://github.com/RapidAI/RapidOcrOnnx/blob/main/onnxruntime-gpu/README.md) 。
 
 ## 1. 前期准备
 
